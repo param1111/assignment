@@ -90,8 +90,20 @@ clear: both;
 }
 .foot-links li{
     font-family: 'Special Elite', cursive;
-	margin-top: 20px;
+	margin-top: 20px;	
+	display: inline;
+}
+
+.foot-links a{
+	margin-left: 10px;
+	margin-right: 10px;
 	color: #e3e3e3;
+	font-size: 20px;
+	position: relative;
+	top: 45px;
+}
+.icons{
+	float: right;
 }
 p{
     font-family: 'Special Elite', cursive;
